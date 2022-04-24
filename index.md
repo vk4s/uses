@@ -50,5 +50,12 @@ Some projects:
 - 💾 Backup Storage
   - 1.5TB External HDD
 
+## Self-hosted
+- NextCloud
+- Caprover
+- OpenVPN
+- DB Servers for Applications
+
+
 PS: Things are WIP... 😂
 
