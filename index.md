@@ -7,15 +7,16 @@ Welcome to my teeny-tiny uses page...
 Read my blogs [Village Programmer](https://villageprogrammer.blogspot.com) (to be merged into lorbic) and [Lorbic](https://www.lorbic.com) (to be migrated soon) 
 
 Some projects:  
-  -  [⚡ lrbc](https://lrbc.ml/)
-  -  [💥 lorbic learning](https://lorbic.ml/) (unavailable)
+  -  [⚡ lrbc](https://r.lorbic.com/)
+  -  [💥 lorbic learning](https://learn.lorbic.com/) (in development, unavailable)
   
 
 ## ❤ SOFTWARE  
-- 👨‍💻 Code Editor(s)
+- 👨‍💻 Code Editor(s) / IDEs
   - VS Code (for everything)
-  - Vim / Nano (When SSHing into hosting server)
-  - Notepad++ (Simple text files)
+  - PyCharm, Go Land
+  - Vim / Nano
+  - Notepad++
 
 - 😎 VS Code Configurations
   - Theme: Plastic
@@ -23,17 +24,20 @@ Some projects:
 
 ## 😋 Tech Stack  
 - 😍 Programming Languages
-  - Python (primary)
+  - Python
+  - Go
   - JavaScript
+  - PHP
 - 🤗 Backend
-  - Django (web)
+  - Django
   - Flask
-  - Node + express (learning)
+  - Go (net/http)
+  - Node + express
 - 🤩 Frontend
   - HTML + CSS + SCSS
 - 😅 Databases
   - Postgresql/MySQL
-  - Mongodb (learning)
+  - Mongodb
 - 🤣 OS
   - Windows 10 + WSL
   - Ubuntu 20.04 (server)
@@ -41,15 +45,17 @@ Some projects:
 
 ## 🖥 HARDWARE  
 - 💻 Laptop 
-  - Acer Nitro 5 (2021): 16GB RAM, 256GB SSD, 1TB HDD
+  - Acer Nitro 5 (2021): 16GB RAM, 256GB SSD, 2TB HDD, 2TB SSD
+  - MSI GF 63 Thin (2023): 16GB RAM, 256GB SSD, 1TB HDD, 1TB SSD
   - Lenovo Ideapad 320: 8GB, 1TB (Older)
-  - Cloud Development: 4C, 24GB, 200GB
+  - Cloud Development: 4C, 16GB, 250GB
 
 - 📺 Monitor
   - Acer 21.5 inches: Full HD, 75hz
 
 - 💾 Backup Storage
-  - 1.5TB External HDD
+  - 2x 1.5TB External HDD
+  - 1TB Cloud Drive
 
 ## Self-hosted
 - NextCloud
@@ -61,12 +67,11 @@ Some projects:
 - Portainer
 
 
-## To learn in 2023
-- AWS
-- C# and .NET
-- Ansible
+## To learn in 2024
+- AWS 
+- Product Development and Project Management 
 - Redis
-- Frontend Framework (maybe Svelte)
+- Frontend Framework (Svelte)
 
 
 PS: Things are WIP... 😂
