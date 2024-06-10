@@ -1,7 +1,7 @@
-## ⚡ {/ VIKASH /}  &nbsp; &nbsp; [🏡 home](https://vkash.lorbic.com)  &nbsp; &nbsp; [📚 blog](https://www.lorbic.com) &nbsp; &nbsp; [⚙ uses](/uses)  
+## ⚡ {/ VIKASH /}  &nbsp; &nbsp; [🏡 home](https://vkash.lorbic.com)  &nbsp; &nbsp; [📚 blog](https://www.lorbic.com) &nbsp; &nbsp; [🙆‍♀️ portfolio](https://vikashpatel.net) &nbsp; &nbsp; [⚙ uses](/uses)  
 
 <br>
-I am a backend (full-stack) developer.
+I am a backend developer.
 Welcome to my teeny-tiny uses page...   
 
 Read my blogs [Village Programmer](https://villageprogrammer.blogspot.com) (to be merged into lorbic) and [Lorbic](https://www.lorbic.com) (to be migrated soon) 
