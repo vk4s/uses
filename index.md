@@ -1,4 +1,4 @@
-## ⚡ {/ VIKASH /}  &nbsp; &nbsp; [🏡 home](https://vkash.lorbic.com)  &nbsp; &nbsp; [📚 blog](https://www.lorbic.com) &nbsp; &nbsp; [🙆‍♀️ portfolio](https://vikashpatel.net) &nbsp; &nbsp; [⚙ uses](/uses)  
+## ⚡ {/ VIKASH /}  &nbsp; &nbsp; [🏡 home](https://vikashpatel.net)  &nbsp; &nbsp; [📚 blog](https://www.lorbic.com) &nbsp; &nbsp; [⚙ uses](/uses)  
 
 <br>
 I am a backend developer.
